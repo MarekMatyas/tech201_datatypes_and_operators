@@ -13,13 +13,13 @@ Boolean - True or False
 
 Operators –
 Arithmic operators – numerical operations 
-•	+ add
-•	- subtract
-•	* multiply
-•	/ divide 
-Comparison operators
-•	> greater than
-•	< less than
+-	"+" add
+- "-" subtract
+-	" * " multiply
+- "/" divide 
+### Comparison operators
+- ">" greater than
+- "<" less than
 •	= equal to
 •	!= not equal
 •	>= greater or equals to 

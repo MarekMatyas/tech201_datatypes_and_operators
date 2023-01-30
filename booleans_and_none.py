@@ -1,7 +1,7 @@
 # boolean - True or False
 # a = True
 # b = False
-#
+# Remember to capitalise True, False, None
 # print(a == b) # False
 #
 # print(a != b) # True
