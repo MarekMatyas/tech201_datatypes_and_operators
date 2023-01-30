@@ -40,4 +40,12 @@ Hw= "Hello world"
 print(Hw[7:]) # Everything from space 7 onward # orld!
 print(Hw[-5:]) # orld!
 print(Hw[:5]) # Hello
-print(Hw[0:5]) # Hello 
+print(Hw[0:5]) # Hello
+
+print("Hello there, what is your name ?")
+name = input()
+print("Hello" +" " + name + " " + "How old are you ?")
+age = input()
+print("When were you born? ")
+DOB = input()
+print("It was nice to meet you !!") 
